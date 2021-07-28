@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "942192294930",
+    "project_id": "qaapp-6e6e1",
+    "storage_bucket": "qaapp-6e6e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942192294930:android:334c09fecae2bfe50b2ccb",
+        "android_client_info": {
+          "package_name": "jp.techacademy.ushio.zaizen.qa_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942192294930-3rcn34fphdl3lgpmbbphb1481jub2eof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFWwrzW6c3XBcvr-_4q7iLiGBt9gU-fjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942192294930-3rcn34fphdl3lgpmbbphb1481jub2eof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
